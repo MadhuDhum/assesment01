@@ -1,0 +1,34 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+.red{
+    color: red;
+}
+.yellow{
+    background: yellow;
+    font-weight: bold;
+}
+
+ul{
+    letter-spacing: 3px;
+    color: rgb(151, 60, 18);
+}
+
+p{
+    color: rgb(151, 60, 18);
+}
+
+ol{
+    color: rgb(151, 60, 18);
+    line-height: 200%;
+}
+
+a{
+    text-decoration: none;
+    color: orangered;
+}
+.orange{
+    color: orangered;
+}
